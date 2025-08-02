@@ -11,7 +11,7 @@
 + `MEDIUM` - для нормисов
 + `LOW` - для **TRUE POTATO GAMEPLAY**
 
-Качайте нужный `.zip` архив и распоковывайте в `.minecraft`
+Качайте нужный `.zip` архив и распоковывайте в `.minecraft`<br>
 
 Так же есть файлы `.mrpack`. Придвинутые ПК юзеры сразу поймут что это файл сборки для лаунчера [Modrinth](https://modrinth.com/app) (пиратскя версия: [AstralRinth](https://git.astralium.su/didirus/AstralRinth/releases))
 Просто открываете этот файл в лаунчере и всё готово
