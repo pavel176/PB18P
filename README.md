@@ -43,7 +43,7 @@ N | По удержанию вы будете говорить тише
 <img width="1280" height="533" alt="image" src="https://github.com/user-attachments/assets/f9adf12c-7183-4b5c-a907-1b6f0b245612" />
 2. Выбираем изображение
 3. Нажимаем `загрузка`. Убедитесь что вас выбрано `Никогда не удалять`
-<img width="1280" height="533" alt="image" src="https://github.com/user-attachments/assets/b6d1f724-7b84-4e8f-bef4-f26154ddb66a" />
+<img width="520" height="410" alt="image" src="https://github.com/user-attachments/assets/61407037-bb69-4b26-af98-d6cc8b24a87c" />
 4. Ждём публикации и переходим по выданной ссылке
 <img width="801" height="401" alt="image" src="https://github.com/user-attachments/assets/64d9a946-e1e8-4927-8dc2-0c64d66fbae9" />
 5. В открывшейся страннице нажимаем ПКМ по нашей картинке и выбираем скопировать URL
